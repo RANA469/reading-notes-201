@@ -6,15 +6,15 @@ im rana shelbaya im22 years old and ifinished my bacheolar's degree from al alba
 
 | title | link |
 | ----- | --------------------------------------------------------------- |
-| read1 | [link to read1]() |
-| read2 |[link to read2]()|
-|read3|[link to read3]()|
-|read4|[link to read4]()|
-| read5|[link to read5]()|
-| read6-a|[link to read6-a]()|
-| read6-b |[link to read-06-b]()|
-| read7| [link to read7]() |
-| read8 | [link to read8]() |
+| class1 | [link to read1]() |
+| class2 |[link to read2]()|
+|class3|[link to read3]()|
+|class4|[link to read4]()|
+| class5|[link to read5]()|
+| class6-a|[link to read6-a]()|
+| class6-b |[link to read-06-b]()|
+| class7| [link to read7]() |
+| class8 | [link to read8]() |
 | NAME | contact Info |
 |------------ | ------------- |
 |rana shelbaya |ranashelbaya.98@yahoo.com|
