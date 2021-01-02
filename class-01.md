@@ -57,7 +57,9 @@ has an extra forward slash in it.)
 Tags act like containers. the information that
 between their opening and closing tags.
  حطي سكرين 4
-~~~~~
+
+
+
 Attributes provide additional information
 about the contents of an element. They appear
 on the opening tag of the element and are
