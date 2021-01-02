@@ -246,18 +246,15 @@ HTML 4.
 (Examples
 include the <center> element
 for centering content on a
-page, <font> for controlling
-the appearance of text, and
-<strike> to put a line through
-the text — all of these can be
-achieved with CSS instead.)
+page <font> for controlling
+the appearance of text
 
 -XHTML 1.0
 Released 2000:In 1998, a language called XML
 was published allow people to write
 new markup languages
 examble:
-.● Every element needed a
+● Every element needed a
 closing tag (except for empty
 elements such as <img />).
 ● Attribute names had to be in
