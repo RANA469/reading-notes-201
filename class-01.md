@@ -229,7 +229,7 @@ form control.
 
 -----
 
-*The Evolution of HTML:Since the web was first created, there have
+-The Evolution of HTML:Since the web was first created, there have
 been several different versions of HTML
 
 
@@ -242,7 +242,8 @@ removed).
 -HTML 4
 Released 1997:With the exception of a few
 elements added in HTML5 all available in
-HTML 4.----- (Examples
+HTML 4.
+(Examples
 include the <center> element
 for centering content on a
 page, <font> for controlling
