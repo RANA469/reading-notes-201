@@ -109,7 +109,6 @@ css.
 # Inheritance
  It saves you from having to apply these properties 
 
- ----------------------------------------------------------------------------------
  # js
 
  A script is a series of instructions that a computer can follow one-by-one.
@@ -182,8 +181,6 @@ JavaScript distinguishes between numbers (0-9),
 strings (text), and Boolean values (true or false).
 Expressions evaluate into a single value.
 Expressions rely on operators to calculate a value. 
-
--------------------------------------------------------------------
 
 ## USING COMPARISON OPERATORS
 it is talking about the operators and the if statment the logic that they use it and how to makes loops .
