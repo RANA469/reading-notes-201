@@ -22,3 +22,32 @@ one.
 position:relative :Relative positioning moves an
 element in relation to where it
 would have been in normal flow
+
+ ## Relative URLs
+Relative URLs can be used when linking to pages within your own website. They provide a shorthand way of telling the browser where to find your files.
+
+
+
+## A Liquid Layout
+ The liquid layout uses percentages to specify the width of each box so that the design will stretch to fit the size of the screen.
+
+## Layout Grids
+Composition in any visual art (such as design, painting, or photography) is the placement or arrangement of visual elements — how they are organized on a page. Many designers use a grid structure to help them position items on a page, and the same is true for web designers.
+
+
+## CSS Frameworks
+CSS frameworks aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on. You can include the CSS framework code in your projects rather than writing the CSS from scratch.
+
+## the FUNCTION
+Functions let you group a series of statements together to perform a specific task.
+
+## Declaring a Function
+you gave it a name and then write the code between a {}
+
+## Calling a Function
+by write the name of the function
+
+
+
+
+
