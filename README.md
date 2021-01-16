@@ -10,12 +10,12 @@ im rana shelbaya im22 years old and ifinished my bacheolar's degree from al alba
 | class2 |[link to class2](https://rana469.github.io/reading-notes-201/class-02)|
 |class3|[link to class3](https://rana469.github.io/reading-notes-201/class-03)|
 |class4|[link to class4](https://rana469.github.io/reading-notes-201/class-04)|
-| class5|[link to class5]()|
-| class6|[link to class6]()|
-| class7| [link to class7]() |
+| class5|[link to class5](https://rana469.github.io/reading-notes-201/class-05)|
+| class6|[link to class6](https://rana469.github.io/reading-notes-201/class-06)|
+| class7| [link to class7](https://rana469.github.io/reading-notes-201/class-07) |
 | class8 | [link to class8](https://rana469.github.io/reading-notes-201/class-8) |
-| class9|[link to class-9]()|
-| class10 | [link to class10]() |
+| class9|[link to class-9](https://rana469.github.io/reading-notes-201/class-09)|
+| class10 | [link to class10](https://rana469.github.io/reading-notes-201/class-10) |
 | class11 |[link to class11]()|
 |class12|[link to class12]()|
 |class13|[link to class13]()|
