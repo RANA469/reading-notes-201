@@ -1,0 +1,55 @@
+
+# Charts 
+### To see how to use chart.js we’re going to create a set of 3 graphs; one will show the number of buyers a fictional product has over the course of 6 months, this will be a line chart; the second will show which countries the customers come from, this will be the pie chart; finally we’ll use a bar chart to show profit over the period.
+ (<script src='Chart.min.js'></script>)
+## Drawing a line chart
+1. we need to do is create a canvas element in our HTML
+(<canvas id="buyers" width="600" height="400"></canvas>)
+2. Next, we need to write a script that will retrieve the context of the canvas,
+## Canvas Environment
+1. All elements in canvas are placed relative to the origin (0,0).
+
+2. Canvas only supports two primitive shapes: rectangles and paths (lists of points connected by lines).
+
+3. fillRect(x, y, width, height) : Draws a filled rectangle.
+
+4. strokeRect(x, y, width, height) : Draws a rectangular outline.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQ2Ox3BvxTLuIe230HAG-NNgk6VfwVbEzyw&usqp=CAU)
+
+5. clearRect(x, y, width, height) : Clears the specified rectangular area, making it fully transparent.
+
+## Path methods :
+### Methods to set different paths for objects.
+
+## beginPath() :
+### Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.
+![](data:image/jpeg;base64,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)
+## closePath() :
+### Adds a straight line to the path, going to the start of the current sub-path.
+
+## stroke() : 
+### Draws the shape by stroking its outline.
+
+## fill() : 
+### Draws a solid shape by filling the path's content area.
+
+## moveTo(x, y) :
+### Moves the pen to the coordinates specified by x and y.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivNXWlUEBkwahWpE99gIXZhEqOBqC5xlhfw&usqp=CAU)
+lineTo(x, y) :
+### Draws a line from the current drawing position to the position specified by x and y.
+
+arc(x, y, radius, startAngle, endAngle, anticlockwise) :
+### Draws an arc which is centered at (x, y) position with radius r starting at startAngle and ending at endAngle going in the given direction indicated by anticlockwise (defaulting to clockwise).
+# Bezier and quadratic curves
+arcTo(x1, y1, x2, y2, radius) :
+### Draws an arc with the given control points and radius, connected to the previous point by a straight line.
+
+quadraticCurveTo(cp1x, cp1y, x, y) :
+### Draws a quadratic Bézier curve from the current pen position to the end point specified by x and y, using the control point specified by cp1x and cp1y.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxBBHhibg2OryFnHWDdRa42Mbsf79qS7NsA&usqp=CAU)
+bezierCurveTo(cp1x, cp1y, cp2x, cp2y, x, y) :
+### Draws a cubic Bézier curve from the current pen position to the end point specified by x and y, using the control points specified by (cp1x, cp1y) and (cp2x, cp2y).
+
+rect(x, y, width, height) :
+### Draws a rectangle whose top-left corner is specified by (x, y) with the specified width and height.
