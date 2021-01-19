@@ -49,11 +49,10 @@ two or more spaces next to each other, it only displays one space.
 <cite> element can be used to indicate where the citation is from.
 <dfn> element is used to indicate the defining instance of a new term.
 <address> to contain contact details for the author of the page.
- <ins> element can be used to show content that has been inserted into a document,
+ element can be used to show content that has been inserted into a document,
  <del> element can show text that has been deleted from it.
  <s> element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
---------------------------------------------------------------------------------------------------------
 
 1.Boxes
 Width and height
